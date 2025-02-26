@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="jeH3jWTRGszRNX-2fUld">
-    <mxGraphModel dx="3025" dy="1830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
             <mxPoint x="259.5" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzhbKaP7WHmGlth-Mub7-1" value="Member" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="AzhbKaP7WHmGlth-Mub7-1" value="Devlopper" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-115.5" y="636" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -170,77 +170,77 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-26" value="T-Lead" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="804" y="636" width="30" height="60" as="geometry" />
+          <mxGeometry x="-88" y="1132" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="494" width="713" height="404" as="geometry" />
+          <mxGeometry x="-22" y="990" width="713" height="404" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-28" value="TeamCheck" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="494" width="60" height="30" as="geometry" />
+          <mxGeometry x="283" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1269" y="740" width="306" height="80" as="geometry" />
+          <mxGeometry x="377" y="1236" width="306" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-33" value="Authentification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="765" width="125" height="30" as="geometry" />
+          <mxGeometry x="478" y="1261" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="905" y="740" width="327" height="80" as="geometry" />
+          <mxGeometry x="13" y="1236" width="327" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-37" value="Marquer la présence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="994" y="765" width="149" height="30" as="geometry" />
+          <mxGeometry x="102" y="1261" width="149" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AzhbKaP7WHmGlth-Mub7-26" target="AzhbKaP7WHmGlth-Mub7-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="897" as="sourcePoint" />
-            <mxPoint x="1064" y="885" as="targetPoint" />
+            <mxPoint x="-52" y="1393" as="sourcePoint" />
+            <mxPoint x="172" y="1381" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-39" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="785" width="60" height="30" as="geometry" />
+          <mxGeometry x="323" y="1281" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.985;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AzhbKaP7WHmGlth-Mub7-32" target="AzhbKaP7WHmGlth-Mub7-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1439.5" y="523" as="sourcePoint" />
-            <mxPoint x="1230.5" y="941" as="targetPoint" />
+            <mxPoint x="547.5" y="1019" as="sourcePoint" />
+            <mxPoint x="338.5" y="1437" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-71" value="UI/UX" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1073" width="30" height="60" as="geometry" />
+          <mxGeometry x="-87" y="1569" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-72" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="871" y="931" width="713" height="404" as="geometry" />
+          <mxGeometry x="-21" y="1427" width="713" height="404" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-73" value="TeamCheck" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1176" y="931" width="60" height="30" as="geometry" />
+          <mxGeometry x="284" y="1427" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-74" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1177" width="306" height="80" as="geometry" />
+          <mxGeometry x="378" y="1673" width="306" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-75" value="Authentification" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1371" y="1202" width="125" height="30" as="geometry" />
+          <mxGeometry x="479" y="1698" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-76" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="906" y="1177" width="327" height="80" as="geometry" />
+          <mxGeometry x="14" y="1673" width="327" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-77" value="Marquer la présence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="995" y="1202" width="149" height="30" as="geometry" />
+          <mxGeometry x="103" y="1698" width="149" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-78" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AzhbKaP7WHmGlth-Mub7-71" target="AzhbKaP7WHmGlth-Mub7-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="841" y="1334" as="sourcePoint" />
-            <mxPoint x="1065" y="1322" as="targetPoint" />
+            <mxPoint x="-51" y="1830" as="sourcePoint" />
+            <mxPoint x="173" y="1818" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-79" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1216" y="1222" width="60" height="30" as="geometry" />
+          <mxGeometry x="324" y="1718" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-80" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.985;entryY=0.305;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AzhbKaP7WHmGlth-Mub7-74" target="AzhbKaP7WHmGlth-Mub7-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1440.5" y="960" as="sourcePoint" />
-            <mxPoint x="1231.5" y="1378" as="targetPoint" />
+            <mxPoint x="548.5" y="1456" as="sourcePoint" />
+            <mxPoint x="339.5" y="1874" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AzhbKaP7WHmGlth-Mub7-84" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
